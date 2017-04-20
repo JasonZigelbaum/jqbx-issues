@@ -1,2 +1,3 @@
-# JQBX-issues
-Post your issues with JQBX in the issues tab.
+# JQBX Issues Log
+
+To log an issue or feature for [JQBX](https://www.jqbx.fm) click on the issues tab and create an issue.
